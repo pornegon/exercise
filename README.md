@@ -39,8 +39,8 @@ Easy:
   * [Death First Search - Episode 1](https://www.codingame.com/training/medium/death-first-search-episode-1)  
   * [There is no Spoon - Episode 1](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1)  
   * [Shadows of the Knight - Episode 1](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)  
-
-    Hard:
-    [Blunder - Episode 2](https://www.codingame.com/training/hard/blunder-episode-2)
+  
+    Hard:  
+    [Blunder - Episode 2](https://www.codingame.com/training/hard/blunder-episode-2)  
     [Tetris](https://www.codingame.com/training/hard/tetris) - only 60% solved  
 
