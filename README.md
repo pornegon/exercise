@@ -41,5 +41,6 @@ Easy:
   * [Shadows of the Knight - Episode 1](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)  
 
     Hard:
-    [Blunder - Episode 2](https://www.codingame.com/training/hard/blunder-episode-2)  
+    [Blunder - Episode 2](https://www.codingame.com/training/hard/blunder-episode-2)
+    [Tetris](https://www.codingame.com/training/hard/tetris) - only 60% solved  
 
