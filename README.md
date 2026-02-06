@@ -42,5 +42,6 @@ Easy:
   
     Hard:  
     [Blunder - Episode 2](https://www.codingame.com/training/hard/blunder-episode-2)  
-    [Tetris](https://www.codingame.com/training/hard/tetris) - only 60% solved  
+    [Tetris](https://www.codingame.com/training/hard/tetris) - only 60% solved
+    [Logic Gates Detective](https://www.codingame.com/training/medium/logic-gates-detective)  
 
